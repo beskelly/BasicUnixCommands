@@ -1,0 +1,35 @@
+[33mcommit 749e45f64c55792ffdc7a200937f4ff5a14ed6bf[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Blake Skelly <bskelly@uoregon.edu>
+Date:   Tue Apr 7 14:28:11 2020 -0700
+
+    Add Learning Objectives to README.md
+
+[33mcommit 7122d97ec47d7b8d66705564516a2931d1f4bc36[m
+Author: Michael Hennessy <michaelh@cs.uoregon.edu>
+Date:   Thu Apr 2 11:13:39 2020 -0700
+
+    Update for 20S
+
+[33mcommit 792e5b607d9a4a9f7cb4b1d96f4d6e8f6be0c6f1[m
+Author: Michael Hennessy <michaelh@cs.uoregon.edu>
+Date:   Mon Jul 22 12:48:04 2019 -0700
+
+    add .gitignore
+
+[33mcommit 05748790e22194dd76f2f0aa11822b5d4c4167b2[m
+Author: Michael Hennessy <michaelh@cs.uoregon.edu>
+Date:   Mon Jul 22 12:42:51 2019 -0700
+
+    add dice images
+
+[33mcommit 683fd32f1dd4311f5e29a4466d2e3c13bd8539df[m
+Author: Michael Hennessy <michaelh@cs.uoregon.edu>
+Date:   Mon Jul 22 12:40:52 2019 -0700
+
+    add dice files
+
+[33mcommit 697d4d7d5340c5e1d58007f1a8b6e90de4721d78[m
+Author: Michael Hennessy <michaelh@cs.uoregon.edu>
+Date:   Wed Mar 27 18:26:54 2019 -0700
+
+    Add README.md
