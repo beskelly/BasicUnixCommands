@@ -5,3 +5,5 @@
 - Basic Unix Shell commands
 - Install and Configure Git using the Unix Shell
 - Github overview
+
+![octocat](images/octobiwancatnobi.png)
