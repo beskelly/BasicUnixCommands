@@ -8,4 +8,4 @@
 
 ![octocat](images/octobiwancatnobi.png)
 
-[My 281 Site](pages.uoregon.edu/bskelly/281/)
+[My 281 Site](https://pages.uoregon.edu/bskelly/281/)
